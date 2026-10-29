@@ -1,4 +1,6 @@
 # Data Structures and Algorithms Solutions
+- 29th Oct, 2026
+  - Not maintaining this repo as of now
 
 Welcome to my collection of Data Structures and Algorithms (DSA) solutions! This repository serves as a comprehensive record of my daily problem-solving journey across various competitive programming platforms.
 
